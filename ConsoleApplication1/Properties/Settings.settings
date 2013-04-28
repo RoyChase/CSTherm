@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CSTherm.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PollRepeat" Type="System.TimeSpan" Scope="Application">
+      <Value Profile="(Default)">00:00:10</Value>
+    </Setting>
+    <Setting Name="OutputFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/home/pi/tempdata</Value>
+    </Setting>
+    <Setting Name="CosmApiId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">nrRUHig3LHTbqUt3uBisYVqiPWeSAKxjaXNoOHBTdFQzOD0g</Value>
+    </Setting>
+    <Setting Name="CosmFeed" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">123479</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

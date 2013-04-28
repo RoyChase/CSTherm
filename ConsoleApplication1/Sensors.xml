@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" ?>
+<!--
+<Sensors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sensor Id="Id1" Name="Name1">
+    <Setting From="2013-04-17T07:30:00" To="0001-01-01T00:00:00" MinC="0" MaxC="17.777777777777777777777777778" MinF="32" MaxF="64.00000000000000000000000000" />
+    <Setting From="2013-04-17T13:30:00" To="0001-01-01T00:00:00" MinC="0" MaxC="28" MinF="32" MaxF="82.4" />
+  </Sensor>
+  <Sensor Id="Id2" Name="Name2" />
+</Sensors>
+-->
+<Sensors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sensor Id="28-000004579346" Name="Viv" >
+    <Setting From="1980-01-01T07:30:00" To="1980-01-01T18:30:00" MaxF="105" MinF="95" />
+    <Setting From="1980-01-01T19:00:00" To="1980-01-01T07:00:00" MaxF="75" MinF="85" />
+  </Sensor>
+  <Sensor Id="28-0000045c85fc" Name="Ambient" />
+</Sensors>
+
